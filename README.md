@@ -6,8 +6,5 @@ Jetbot 따라하기 ~ 만들기 프로젝트
 1. [Chibirene ](https://github.com/Jeonda/chibirene/wiki/chibirene)
 
 
-# Jetson nano ?
-2. [Jetson Nano는? ](https://github.com/Jeonda/chibirene/wiki/Jeton-nano)
-
-# Jetbot ?
-2. [Jetbot 따라하기](https://github.com/Jeonda/chibirene/wiki)
+# Jetson nano and Jetbot 따라하기
+2. [Jetson Nano는? ](https://github.com/Jeonda/chibirene/wiki)
